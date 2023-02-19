@@ -1,4 +1,4 @@
-! Title: Ublock Faucet List
+! Title: 0x7C2f Filter List
 ! Expires: 1 day
 *###gath3r-optin-dialog
 *##.d-lg-block.d-none.icon-bar
