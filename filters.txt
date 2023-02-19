@@ -3,3 +3,10 @@
 *###gath3r-optin-dialog
 *##.d-lg-block.d-none.icon-bar
 *##.popup-background
+*##.adfree-wrapper
+*###bottomAdd
+*##.d-lg-block.d-none.icon-bar
+*##.partners
+*##.chatbro_opacity.chatbro_movable_chat.chatbro_chat
+*###floatads
+*###ccpaCookieBanner
