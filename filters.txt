@@ -10,3 +10,4 @@
 *##.chatbro_opacity.chatbro_movable_chat.chatbro_chat
 *###floatads
 *###ccpaCookieBanner
+*##.footers
